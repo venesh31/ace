@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "Please, type your paragraph"
+read paragraph
+echo $paragraph|wc 
+
+
+
+
+
